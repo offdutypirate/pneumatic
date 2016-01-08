@@ -11,6 +11,7 @@
 
 $main-font: "Raleway", sans-serif;
 $code-font: "Source Code Pro", monospace;
+$title-font: "Rock Salt", serif;
 
 $accent-colour: #FF8000;
 
@@ -257,6 +258,7 @@ aside div {
 }
 
 #name {
+	font: $name-font;
 	font-size: 1.8em;
 	line-height: 1.35;
 	letter-spacing: -0.5px;
